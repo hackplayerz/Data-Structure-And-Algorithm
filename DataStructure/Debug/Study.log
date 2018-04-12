@@ -1,0 +1,10 @@
+﻿  LinkedList.c
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(72): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(84): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(89): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(96): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(112): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(127): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(146): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+e:\wonkwang univ\데이터구조\source\datastructure\linkedlist.c(148): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+  Study.vcxproj -> E:\Wonkwang Univ\데이터구조\Source\DataStructure\Debug\Study.exe
